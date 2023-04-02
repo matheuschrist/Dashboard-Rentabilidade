@@ -1,7 +1,7 @@
 # Dashboard-Rentabilidade
 
 
-Projeto desenvolvido para criar um painél para tomada de decição de investimento nas empresas utilizando indicadores fundamentalistas e o histórioco do valor da cotações, processo de extração e trasformação dos dados construido em python e visualização desenvolvida pelo power bi.
+Projeto desenvolvido para criar um painél para tomada de decisão de investimento nas empresas utilizando indicadores fundamentalistas e o histórioco do valor da cotações, processo de extração e trasformação dos dados construido em python e visualização desenvolvida pelo power bi.
 
 
 
